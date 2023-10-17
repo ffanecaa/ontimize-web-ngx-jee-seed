@@ -15,11 +15,14 @@ export class HomeComponent implements OnInit {
   }
 
   ngOnInit() {
-    // nothing to do
   }
 
   navigate() {
     this.router.navigate(['../', 'login'], { relativeTo: this.actRoute });
+  }
+
+  goToDocumentation() {
+    window.open("https://ontimizeweb.github.io/docs/", "_blank");
   }
 
 }

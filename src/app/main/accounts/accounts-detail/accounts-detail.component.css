@@ -1,0 +1,13 @@
+.input-padding {
+    padding-right: 6px;
+  }
+  
+  .o-table-column-centered {
+    text-align: center;
+  }
+  
+  .form-expanded {
+    form.inner-form {
+      height: 100%;
+    }
+  }

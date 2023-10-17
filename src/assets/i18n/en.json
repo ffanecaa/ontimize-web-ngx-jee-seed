@@ -49,6 +49,22 @@
   "ENDDATE": "End date",
   "INTERESRATE": "% Interest",
   "ACCOUNTTYP": "Account type",
-  "ACCOUNTNUMBER": "Account number"
+  "ACCOUNTNUMBER": "Account number",
+  "DATE_": "Date",
+  "CONCEPT": "Concept",
+  "MOVEMENT": "Movement",
+  "MOVEMENTTYPEID": "Movement type",
+  "MODULES": "Modules",
+  "ACCESS": "View",
+  "DOCUMENTATION": "Documentation",
+  "TOTAL_CUSTOMERS": "Total customers",
+  "TOTAL_EMPLOYEES": "Total employees",
+  "TOTAL_BRANCHES": "Total branches",
+  "TOTAL_ACCOUNT": "Total accounts",
+  "TOTAL_SERVICEEX": "Total elements",
+  "VIP": "VIP",
+  "NORMAL": "Normal",
+  "OTHERS": "Others",
+  "BASIC": "Basic"
   
 }
